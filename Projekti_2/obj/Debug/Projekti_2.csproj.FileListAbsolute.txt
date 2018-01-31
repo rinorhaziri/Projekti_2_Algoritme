@@ -1,0 +1,6 @@
+E:\Projekti_2\Projekti_2\bin\Debug\Projekti_2.exe.config
+E:\Projekti_2\Projekti_2\bin\Debug\Projekti_2.exe
+E:\Projekti_2\Projekti_2\bin\Debug\Projekti_2.pdb
+E:\Projekti_2\Projekti_2\obj\Debug\Projekti_2.csprojResolveAssemblyReference.cache
+E:\Projekti_2\Projekti_2\obj\Debug\Projekti_2.exe
+E:\Projekti_2\Projekti_2\obj\Debug\Projekti_2.pdb
